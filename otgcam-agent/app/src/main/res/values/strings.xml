@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OTGCam Agent</string>
+    <string name="title_otgcam_agent">OTGCam Agent</string>
+    <string name="status_uvc_camera">UVC Camera</string>
+    <string name="status_service">Service</string>
+    <string name="status_last_capture">Last Capture</string>
+    <string name="status_last_upload">Last Upload</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="clear_log">Clear Log</string>
+    <string name="setup_title">Agent Setup</string>
+    <string name="hint_bot_token">Bot Token</string>
+    <string name="hint_chat_id">Chat ID</string>
+    <string name="hint_agent_id">Agent ID</string>
+    <string name="save_and_continue">Save and Continue</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_dialog_title">Permissions Required</string>
+    <string name="permission_dialog_message">Camera, microphone, and storage permissions are essential for OTGCam to capture and upload media.</string>
+    <string name="retry">Retry</string>
+    <string name="notification_channel_name">OTGCam Service</string>
+    <string name="notification_title">OTGCam Agent Active</string>
+    <string name="notification_text">Monitoring UVC camera and headset controls.</string>
+    <string name="action_capture_photo">Capture Photo</string>
+    <string name="log_placeholder">No events yet.</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="running">Running</string>
+    <string name="stopped">Stopped</string>
+    <string name="none">None</string>
+</resources>

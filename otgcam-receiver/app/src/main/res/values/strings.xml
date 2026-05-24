@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OTGCam Receiver</string>
+    <string name="title_otgcam_receiver">OTGCam Receiver</string>
+    <string name="setup_title">Receiver Setup</string>
+    <string name="hint_bot_token">Bot Token</string>
+    <string name="hint_chat_id">Chat ID</string>
+    <string name="hint_agent_id">Agent ID</string>
+    <string name="save_and_continue">Save and Continue</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="status_polling">Polling</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_error">Error</string>
+    <string name="audio_call">Audio Call</string>
+    <string name="video_call">Video Call</string>
+    <string name="connecting">Connecting…</string>
+    <string name="live">Live</string>
+    <string name="audio_only">Audio Only</string>
+    <string name="end_call">End Call</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="speaker_on">Speaker On</string>
+    <string name="speaker_off">Speaker Off</string>
+    <string name="fullscreen_image">Fullscreen Image</string>
+</resources>
